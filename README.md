@@ -37,8 +37,3 @@ This Tableau dashboard provides a comprehensive view of unpaid invoices segmente
 - Add predictive analytics for renewal likelihood.
 - Integrate real-time data updates.
 
----
-
-## Contact
-
-For questions or feedback, please contact: [Your email or GitHub profile link]
